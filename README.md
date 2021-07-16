@@ -1,7 +1,7 @@
 # Hola! I am Aman 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iam-amanxz&show_icons=true&theme=github_dark&bg_color=22272E"/>   
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-amanxz&layout=compact&theme=github_dark&bg_color=22272E"/>   
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iam-amanxz&show_icons=true&theme=github_dark&bg_color=22272E&v=2"/>   
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-amanxz&layout=compact&theme=github_dark&bg_color=22272E&v=2"/>   
 <img width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=iam_amanxz&theme=github_dark&bg_color=22272E&v=2"/> 
 
 <img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
