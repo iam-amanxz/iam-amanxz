@@ -3,7 +3,7 @@
 
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=iam_amanxz&theme=github_dark&bg_color=22272E&v=2"/> 
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-amanxz&layout=compact&theme=github_dark&bg_color=22272E&v=2&langs_count=10"/> 
+<img width="45%" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-amanxz&layout=compact&theme=github_dark&bg_color=22272E&v=2&langs_count=10"/> 
 
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=iam-amanxz&show_icons=true&theme=github_dark&bg_color=22272E&v=2"/> 
 
