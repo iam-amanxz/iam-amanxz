@@ -1,6 +1,7 @@
 # Hola! I am Aman 👋
 
-<img src="https://github.com/iam-amanxz/iam-amanxz/blob/master/devcard.svg" width="400" alt="Dev Card"/>
+<img src="https://github.com/iam-amanxz/iam-amanxz/blob/main/devcard.svg" width="300" alt="Dev Card"/>
+
 
 <table>
   <tr>
